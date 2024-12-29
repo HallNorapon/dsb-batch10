@@ -8,3 +8,8 @@ My data science and Analytics projects
 3. R-Programming - Pao Ying Chub
 4. Looker GA4 Dashboard
 5. Linear Regression Model using Caret
+
+## Contact Me
+reach out to me using 
+LinkedIn: Norapon Poradok
+Email: norapon.hall@gmail.com

@@ -1,7 +1,7 @@
 # Data Science Bootcamp 10
 My data science and Analytics projects
 
-## My personla projects
+## My personal projects
 
 1. SQL supermarket analysis
 2. SQL chuen analysis
